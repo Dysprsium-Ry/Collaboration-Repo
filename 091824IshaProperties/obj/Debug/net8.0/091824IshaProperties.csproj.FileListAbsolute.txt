@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\bin\Debug\net8.0\091824IshaProperties.exe
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\bin\Debug\net8.0\091824IshaProperties.deps.json
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\bin\Debug\net8.0\091824IshaProperties.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\bin\Debug\net8.0\091824IshaProperties.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\bin\Debug\net8.0\091824IshaProperties.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\refint\091824IshaProperties.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\091824IshaProperties.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091824IshaProperties\obj\Debug\net8.0\ref\091824IshaProperties.dll

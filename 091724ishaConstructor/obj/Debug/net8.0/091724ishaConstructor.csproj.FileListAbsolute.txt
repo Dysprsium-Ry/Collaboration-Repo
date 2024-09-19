@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\bin\Debug\net8.0\091724ishaConstructor.exe
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\bin\Debug\net8.0\091724ishaConstructor.deps.json
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\bin\Debug\net8.0\091724ishaConstructor.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\bin\Debug\net8.0\091724ishaConstructor.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\bin\Debug\net8.0\091724ishaConstructor.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\refint\091724ishaConstructor.dll
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\091724ishaConstructor.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\week3REPO\091724ishaConstructor\obj\Debug\net8.0\ref\091724ishaConstructor.dll

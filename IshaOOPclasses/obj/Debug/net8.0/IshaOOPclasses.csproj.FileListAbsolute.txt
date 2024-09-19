@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\bin\Debug\net8.0\IshaOOPclasses.exe
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\bin\Debug\net8.0\IshaOOPclasses.deps.json
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\bin\Debug\net8.0\IshaOOPclasses.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\bin\Debug\net8.0\IshaOOPclasses.dll
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\bin\Debug\net8.0\IshaOOPclasses.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.dll
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\refint\IshaOOPclasses.dll
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.pdb
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\IshaOOPclasses.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\week3REPO\IshaOOPclasses\obj\Debug\net8.0\ref\IshaOOPclasses.dll
