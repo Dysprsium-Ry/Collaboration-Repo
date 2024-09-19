@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\bin\Debug\net8.0\IshaMethod.exe
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\bin\Debug\net8.0\IshaMethod.deps.json
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\bin\Debug\net8.0\IshaMethod.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\bin\Debug\net8.0\IshaMethod.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\bin\Debug\net8.0\IshaMethod.pdb
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\refint\IshaMethod.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.pdb
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\IshaMethod.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\IshaMethod\obj\Debug\net8.0\ref\IshaMethod.dll

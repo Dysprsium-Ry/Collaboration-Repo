@@ -1,0 +1,14 @@
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.AssemblyInfoInputs.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.AssemblyInfo.cs
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\bin\Debug\net8.0\ishaOddEvenIdentifier.exe
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\bin\Debug\net8.0\ishaOddEvenIdentifier.deps.json
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\bin\Debug\net8.0\ishaOddEvenIdentifier.runtimeconfig.json
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\bin\Debug\net8.0\ishaOddEvenIdentifier.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\bin\Debug\net8.0\ishaOddEvenIdentifier.pdb
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\refint\ishaOddEvenIdentifier.dll
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.pdb
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ishaOddEvenIdentifier.genruntimeconfig.cache
+C:\Users\Move Foundation\source\repos\newARSrepo\ishaOddEvenIdentifier\obj\Debug\net8.0\ref\ishaOddEvenIdentifier.dll
